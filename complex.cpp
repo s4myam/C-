@@ -25,6 +25,7 @@ public:
     {
         cout << r << "+" << i << "j";
     }
+    friend Complex operator+(Complex c1,Complex c2);
     Complex operator+(Complex c)
     {
         Complex temp;
@@ -63,7 +64,7 @@ int main()
     // c4 = c1 - c2;
     // ++c1;
     // --c1;
-    (++c1).getData();
+    c3.getData();
     c1++;
     //--c1;
 }
