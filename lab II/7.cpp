@@ -40,5 +40,6 @@ int main()
     s2.display();
     s3.display();
     Student::showCount();
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

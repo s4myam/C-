@@ -47,6 +47,6 @@ int main()
         cin >> cont;
 
     } while (cont == 'y' || cont == 'Y');
-
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

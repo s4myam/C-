@@ -34,5 +34,6 @@ int main()
     {
         e[i].display();
     }
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

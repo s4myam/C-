@@ -19,6 +19,6 @@ int main()
         }
         cout << "Factorial of " << num << " = " << factorial << endl;
     }
-
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

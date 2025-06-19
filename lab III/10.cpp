@@ -22,5 +22,6 @@ int main()
     Money m1(10, 75), m2(5, 50);
     m1 += m2;
     m1.display();
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

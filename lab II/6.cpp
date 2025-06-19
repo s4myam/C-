@@ -33,5 +33,6 @@ int main()
     cout << "Default box volume: " << b1.volume() << endl;
     cout << "Cube volume: " << b2.volume() << endl;
     cout << "Cuboid volume: " << b3.volume() << endl;
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

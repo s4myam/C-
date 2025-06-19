@@ -20,5 +20,6 @@ int main()
     cout << "Enter length and breadth: ";
     cin >> r;
     r.display();
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

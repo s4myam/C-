@@ -15,5 +15,6 @@ int main()
     }
 
     cout << "Reversed Number: " << reversed << endl;
+    cout << "By Samyam Humagain" << endl; 
     return 0;
 }

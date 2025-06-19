@@ -34,5 +34,6 @@ int main()
     t2.input();
     sum = t1.add(t2);
     sum.display();
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

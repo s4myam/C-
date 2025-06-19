@@ -29,6 +29,6 @@ int main()
     {
         cout << "Invalid choice!" << endl;
     }
-
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

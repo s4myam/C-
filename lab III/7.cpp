@@ -19,5 +19,6 @@ int main()
     Complex c1(3, 2), c2(1, 7);
     Complex c3 = c1 * c2;
     c3.display();
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

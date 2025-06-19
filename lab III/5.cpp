@@ -19,5 +19,6 @@ int main()
 {
     Student s("Samyam", 25);
     cout << s << endl;
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

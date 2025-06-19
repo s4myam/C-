@@ -19,5 +19,6 @@ int main()
     Fraction f1(3, 4), f2(2, 5);
     Fraction f3 = f1 / f2;
     f3.display();
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

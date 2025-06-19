@@ -16,6 +16,6 @@ int main()
 
     cout << num1 << " is " << (num1 % 2 == 0 ? "even\n" : "odd\n");
     cout << num2 << " is " << (num2 % 2 == 0 ? "even\n" : "odd\n");
-
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

@@ -33,5 +33,6 @@ int main()
     d2.input();
     d3 = d1.add(d2);
     d3.display();
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

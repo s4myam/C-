@@ -19,5 +19,6 @@ int main()
     Counter c(5);
     ++c;
     c.display();
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

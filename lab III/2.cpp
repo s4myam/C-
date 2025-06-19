@@ -22,5 +22,6 @@ int main()
     Time t1(4, 30), t2(2, 45);
     Time t3 = t1 - t2;
     t3.display();
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

@@ -22,5 +22,6 @@ int main()
     Distance d1(5, 8), d2(3, 11);
     Distance d3 = d1 + d2;
     d3.display();
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

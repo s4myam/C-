@@ -15,5 +15,6 @@ int main()
 {
     cout << "Area of square (5): " << area(5) << endl;
     cout << "Area of rectangle (5x10): " << area(5, 10) << endl;
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

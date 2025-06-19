@@ -17,5 +17,6 @@ int main()
 {
     Book b1("Book A", "Author X"), b2("Book A", "Author Y");
     cout << (b1 != b2 ? "Different" : "Same") << endl;
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

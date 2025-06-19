@@ -12,5 +12,6 @@ int main()
     int a = 5;
     modify(&a);
     cout << "Outside function: " << a << endl;
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

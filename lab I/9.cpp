@@ -10,7 +10,9 @@ int main()
     if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))
         cout << "Leap year\n";
     else
+    {
         cout << "Not a leap year\n";
-
+    }
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

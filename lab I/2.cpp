@@ -25,6 +25,6 @@ int main()
     balance += deposit;
 
     cout << "Updated Balance: " << balance << endl;
-
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

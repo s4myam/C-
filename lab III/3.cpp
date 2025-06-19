@@ -17,5 +17,6 @@ int main()
 {
     Point p1(3, 4), p2(3, 4);
     cout << (p1 == p2 ? "Equal" : "Not Equal") << endl;
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

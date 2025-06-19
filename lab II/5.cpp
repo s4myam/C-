@@ -28,5 +28,6 @@ int main()
     Person p;
     p.input();
     p.display();
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

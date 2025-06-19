@@ -38,5 +38,6 @@ int main()
     b.deposit(500);
     b.withdraw(200);
     b.display();
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }

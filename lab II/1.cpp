@@ -29,5 +29,6 @@ int main()
     Student s;
     s.input();
     s.display();
+    cout << "By Samyam Humagain" << endl;
     return 0;
 }
